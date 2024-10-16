@@ -40,4 +40,10 @@ Mixed-methods approach combining survey data, in-depth interviews, and secondary
 ![image](https://github.com/user-attachments/assets/5415a774-e6a1-4839-bbf5-988843e8b680)
 ## Table 3: Cultural Adaptation Strategies
 ![image](https://github.com/user-attachments/assets/eb9ed596-bb4f-4cb1-8bb0-1981cca64382)
+# Further Analysis
+## Regression Analysis
+Examining the relationship between migration motivations and demographic characteristics.
 
+## Correlation Matrix
+![image](https://github.com/user-attachments/assets/2a8285b4-04ed-4c54-bef9-6f3be76ae91f)
+"Conducted regression analysis and created correlation matrix"
